@@ -80,3 +80,5 @@ Due to the laser cutter being unavailable, we generated a DXF template and cut t
 ### Problem Solving & Results
 * **Lateral Motion**: We identified that the arm would throw off-center due to lateral movement. We overcame this by replacing nuts with MDF spacers to stabilize the arm.
 * **Consistency**: By repeating tests 3 times per distance to find a mean average, we achieved consistent target hits.
+
+Full project available at [Catapult-project.pptx](Catapult-project.pptx)
