@@ -29,11 +29,13 @@ We researched three traditional catapult styles: the Ballista, Trebuchet, and Ma
 * **Morphological Analysis**: We compared different sub-functions, such as power sources (elastic stretching vs. twisting) and projectile holders (slings vs. cups).
 
 ![Morphological Analysis](morphological-analysis.PNG)
+
 *Morphological analysis used to address feasability concerns.*
 
 * **Pugh Matrix**: We evaluated three concepts against criteria like ease of manufacture and simplicity. Concept 3 was selected with a grand total of 78 points.
 
 ![Pugh Matrix](pugh-matrix.png)
+
 *Decision-making matrix used to objectively select the final design.*
 
 ### 2. Mathematical Analysis
@@ -46,6 +48,7 @@ $$F = -kx$$
 Using ballistic motion equations and adjusting for drag, we developed a precise setting guide for the catapult:
 
 ![Range Table](range-table.png)
+
 *Settings required to hit targets between 1m and 5m.*
 
 ---
@@ -55,7 +58,8 @@ Using ballistic motion equations and adjusting for drag, we developed a precise 
 ### CAD Modeling (CATIA)
 The catapult was modeled using CATIA, creating an assembly of five distinct parts: the base, two sides, a post, and the swing arm.
 
-![CAD Assembly](complete-cad-design.jpg)
+![CAD Assembly](complete-cad-design.PNG)
+
 *Full assembly render showcasing the adjustable release points.*
 
 ### Technical Drawings
@@ -76,6 +80,3 @@ Due to the laser cutter being unavailable, we generated a DXF template and cut t
 ### Problem Solving & Results
 * **Lateral Motion**: We identified that the arm would throw off-center due to lateral movement. We overcame this by replacing nuts with MDF spacers to stabilize the arm.
 * **Consistency**: By repeating tests 3 times per distance to find a mean average, we achieved consistent target hits.
-
----
-*Project conducted at Birmingham City University, Group 11.*
