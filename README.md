@@ -14,6 +14,7 @@ The objective was to design and build a catapult to launch squash balls at targe
 * **Adjustability**: The design must be "settable" for variable distances.
 
 ![Final Physical Build](complete-catapult.jpeg)
+
 *The final physical prototype, hand-cut from 9mm MDF.*
 
 ---
