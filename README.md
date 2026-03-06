@@ -42,7 +42,7 @@ We researched three traditional catapult styles: the Ballista, Trebuchet, and Ma
 We conducted a series of experiments to find the spring constant ($k$) of the rubber bands using Hooke's Law:
 $$F = -kx$$
 
-![Hooke's Law table](k-values.png)
+![Hooke's Law table](k-values.PNG)
 
 **Ballistic Range Calibration**:
 Using ballistic motion equations and adjusting for drag, we developed a precise setting guide for the catapult:
