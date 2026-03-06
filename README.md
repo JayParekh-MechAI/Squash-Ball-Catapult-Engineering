@@ -27,6 +27,10 @@ We researched three traditional catapult styles: the Ballista, Trebuchet, and Ma
 
 
 * **Morphological Analysis**: We compared different sub-functions, such as power sources (elastic stretching vs. twisting) and projectile holders (slings vs. cups).
+
+![Morphological Analysis](morphological-analysis.png)
+*Morphological analysis used to address feasability concerns.*
+
 * **Pugh Matrix**: We evaluated three concepts against criteria like ease of manufacture and simplicity. Concept 3 was selected with a grand total of 78 points.
 
 ![Pugh Matrix](pugh-matrix.png)
